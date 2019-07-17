@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on DGC</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on DGC</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multiple Interactions Networks: Towards More Realistic Descriptions of the Web of Life</title>
+      <link>/publication/2018-01-01_garcia-callejas2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_garcia-callejas2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effect of Multiple Biotic Interaction Types on Species Persistence</title>
+      <link>/publication/2018-01-01_garcia-callejas2018a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_garcia-callejas2018a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projecting the Distribution and Abundance of Mediterranean Tree Species under Climate Change: A Demographic Approach</title>
+      <link>/publication/2017-01-01_garcia-callejas2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017-01-01_garcia-callejas2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effects of Model and Data Complexity on Predictions from Species Distributions Models</title>
+      <link>/publication/2016-01-01_garcia-callejas2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2016-01-01_garcia-callejas2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
