@@ -2,21 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on DGC</title>
-    <link>/authors/</link>
+    <link>https://garciacallejas.github.io/authors/</link>
     <description>Recent content in Authors on DGC</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://garciacallejas.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <title>David Garcia-Callejas</title>
+      <link>https://garciacallejas.github.io/authors/david-garcia-callejas/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/authors/admin/</guid>
+      <guid>https://garciacallejas.github.io/authors/david-garcia-callejas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miguel B. Araujo</title>
+      <link>https://garciacallejas.github.io/authors/miguel-b.-araujo/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://garciacallejas.github.io/authors/miguel-b.-araujo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roberto-Molowny Horas</title>
+      <link>https://garciacallejas.github.io/authors/roberto-molowny-horas/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://garciacallejas.github.io/authors/roberto-molowny-horas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javier Retana</title>
+      <link>https://garciacallejas.github.io/authors/javier-retana/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://garciacallejas.github.io/authors/javier-retana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://garciacallejas.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://garciacallejas.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I am a community ecologist with a keen interest in understanding how ecological phenomena arise from interactions between entities in space and time. As such, I have so far focused my research on the structure and dynamics of ecological networks: how interactions of different types can be seamlessly incorporated in their representation, how species persist in these networks, and the role of space in shaping their dynamics.&lt;/p&gt;
 
 &lt;p&gt;I am actually integrating insights from species coexistence theory into this view of ecological communities as complex systems, by studying the spatiotemporal dynamics of a grassland ecosystem in the beautiful Doñana National Park (Spain).&lt;/p&gt;
@@ -27,42 +63,6 @@
 
 &lt;p&gt;In the sections above you will find a -hopefully- updated list of publications and CV, teaching resources from the classes/workshops I have imparted, and some occasional posts that I will write mostly to remind myself how to solve specific issues I encountered when playing with R, markdown, Latex, or any other fancy tool.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>David Garcia-Callejas</title>
-      <link>/authors/david-garcia-callejas/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/david-garcia-callejas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Miguel B. Araujo</title>
-      <link>/authors/miguel-b.-araujo/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/miguel-b.-araujo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Roberto-Molowny Horas</title>
-      <link>/authors/roberto-molowny-horas/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/roberto-molowny-horas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Javier Retana</title>
-      <link>/authors/javier-retana/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/javier-retana/</guid>
-      <description></description>
     </item>
     
   </channel>
