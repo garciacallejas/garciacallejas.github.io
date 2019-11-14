@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teachings on DGC</title>
+    <link>/teaching/</link>
+    <description>Recent content in Teachings on DGC</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Teaching materials</title>
+      <link>/teaching/teaching-materials/</link>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/teaching-materials/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Conservation Biology (UAB 2017, in spanish)&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/files/BioCon_seminario_1.pdf&#34;&gt;Seminar 1 - General ideas and trends on Conservation Biology&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/files/BioCon_seminario_2.pdf&#34;&gt;Seminar 2 - Drivers: Climate change, habitat loss and fragmentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/files/BioCon_seminario_3.pdf&#34;&gt;Seminar 3 - Invasive species (with Yolanda Melero)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/files/BioCon_seminario_4.pdf&#34;&gt;Seminar 4 - Land Stewardship (with Alberto Navarro)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Forest Ecology (UAB 2017, in spanish)&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/files/ForEco_seminario.pdf&#34;&gt;Seminar - Age-Structured Population Models&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Ecological Modelling (UAB 2015, 2016, in spanish)&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/files/MSC_seminar.pdf&#34;&gt;Seminar - Ecological interactions and community stability&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Other courses&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Full materials of a 10-hour &lt;a href=&#34;/files/latex_zotero.tar.gz&#34;&gt;Latex and Zotero crash course&lt;/a&gt; imparted at CREAF, 2018&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
