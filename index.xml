@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DGC</title>
-    <link>https://garciacallejas.github.io/</link>
+    <link>/</link>
     <description>Recent content on DGC</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://garciacallejas.github.io/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Example Page 1</title>
-      <link>https://garciacallejas.github.io/courses/example/example1/</link>
+      <link>/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://garciacallejas.github.io/courses/example/example1/</guid>
+      <guid>/courses/example/example1/</guid>
       <description>
 
 &lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
@@ -49,10 +49,10 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>https://garciacallejas.github.io/courses/example/example2/</link>
+      <link>/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://garciacallejas.github.io/courses/example/example2/</guid>
+      <guid>/courses/example/example2/</guid>
       <description>
 
 &lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
@@ -85,10 +85,10 @@
     
     <item>
       <title>Example Talk</title>
-      <link>https://garciacallejas.github.io/talk/example/</link>
+      <link>/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>https://garciacallejas.github.io/talk/example/</guid>
+      <guid>/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -108,15 +108,50 @@
     </item>
     
     <item>
+      <title>Teaching materials</title>
+      <link>/teaching/teaching-materials/</link>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/teaching-materials/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Conservation Biology (UAB 2017, in spanish)&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/files/BioCon_seminario_1.pdf&#34;&gt;Seminar 1 - General ideas and trends on Conservation Biology&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/files/BioCon_seminario_2.pdf&#34;&gt;Seminar 2 - Drivers: Climate change, habitat loss and fragmentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/files/BioCon_seminario_3.pdf&#34;&gt;Seminar 3 - Invasive species (with Yolanda Melero)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/files/BioCon_seminario_4.pdf&#34;&gt;Seminar 4 - Land Stewardship (with Alberto Navarro)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Forest Ecology (UAB 2017, in spanish)&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/files/ForEco_seminario.pdf&#34;&gt;Seminar - Age-Structured Population Models&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Ecological Modelling (UAB 2015, 2016, in spanish)&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;/files/MSC_seminar.pdf&#34;&gt;Seminar - Ecological interactions and community stability&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Other courses&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Full materials of a 10-hour &lt;a href=&#34;/files/latex_zotero.tar.gz&#34;&gt;Latex and Zotero crash course&lt;/a&gt; imparted at CREAF, 2018&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Working setup</title>
-      <link>https://garciacallejas.github.io/post/2019-06-27-test/</link>
+      <link>/post/2019-06-27-test/</link>
       <pubDate>Thu, 27 Jun 2019 21:13:14 -0500</pubDate>
       
-      <guid>https://garciacallejas.github.io/post/2019-06-27-test/</guid>
+      <guid>/post/2019-06-27-test/</guid>
       <description>
 
 
-&lt;p&gt;Although my career is not that long, I like to experiment with different workflows and adapt them to my needs and likings. I have written papers in Word, Latex, google docs, and Markdown, while I have produced and tweaked figures with R, Gimp, Inkscape, the yEd diagram editor, and probably some other tools that I don’t remember anymore. I will quickly summarize what, for me, is the best workflow for a complete project.&lt;/p&gt;
+&lt;p&gt;I often experiment with different workflows and adapt them to my needs and likings. I have written papers in Word, Latex, google docs, and Markdown, while I have produced and tweaked figures with R, Gimp, Inkscape, the yEd diagram editor, and probably some other tools that I don’t remember anymore. I will quickly summarize what, for me, is the best workflow for a complete project.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;1 - Setting up a code/data project&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Set up a github repository for the code and, if it applies, for the raw data. Note that ideally data may be stored externally, e.g. in Zenodo or similar long-term archives.&lt;/p&gt;&lt;/li&gt;
@@ -144,10 +179,10 @@
     
     <item>
       <title>Slides</title>
-      <link>https://garciacallejas.github.io/slides/example/</link>
+      <link>/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://garciacallejas.github.io/slides/example/</guid>
+      <guid>/slides/example/</guid>
       <description>
 
 &lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
@@ -325,56 +360,75 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Spatial Trophic Cascades in Communities Connected by Dispersal and Foraging</title>
-      <link>https://garciacallejas.github.io/publication/garcia-callejas-2019/</link>
+      <title>Restauración de interacciones ecológicas: medidas y consecuencias a escala de comunidad</title>
+      <link>/publication/garcia-callejas-2019-a/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://garciacallejas.github.io/publication/garcia-callejas-2019/</guid>
+      <guid>/publication/garcia-callejas-2019-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Trophic Cascades in Communities Connected by Dispersal and Foraging</title>
+      <link>/publication/garcia-callejas-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/garcia-callejas-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Effect of Multiple Biotic Interaction Types on Species Persistence</title>
-      <link>https://garciacallejas.github.io/publication/garcia-callejas-2018-a/</link>
+      <link>/publication/garcia-callejas-2018-a/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://garciacallejas.github.io/publication/garcia-callejas-2018-a/</guid>
+      <guid>/publication/garcia-callejas-2018-a/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Multiple Interactions Networks: Towards More Realistic Descriptions of the Web of Life</title>
-      <link>https://garciacallejas.github.io/publication/garcia-callejas-2018/</link>
+      <link>/publication/garcia-callejas-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://garciacallejas.github.io/publication/garcia-callejas-2018/</guid>
+      <guid>/publication/garcia-callejas-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projecting the Distribution and Abundance of Mediterranean Tree Species under Climate Change: A Demographic Approach</title>
-      <link>https://garciacallejas.github.io/publication/garcia-callejas-2017/</link>
+      <link>/publication/garcia-callejas-2017/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://garciacallejas.github.io/publication/garcia-callejas-2017/</guid>
+      <guid>/publication/garcia-callejas-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>External Project</title>
-      <link>https://garciacallejas.github.io/project/external-project/</link>
+      <link>/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://garciacallejas.github.io/project/external-project/</guid>
+      <guid>/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internal Project</title>
-      <link>https://garciacallejas.github.io/project/internal-project/</link>
+      <link>/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://garciacallejas.github.io/project/internal-project/</guid>
+      <guid>/project/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
@@ -389,10 +443,10 @@ $$&lt;/p&gt;
     
     <item>
       <title>The Effects of Model and Data Complexity on Predictions from Species Distributions Models</title>
-      <link>https://garciacallejas.github.io/publication/garcia-callejas-2016/</link>
+      <link>/publication/garcia-callejas-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://garciacallejas.github.io/publication/garcia-callejas-2016/</guid>
+      <guid>/publication/garcia-callejas-2016/</guid>
       <description></description>
     </item>
     
