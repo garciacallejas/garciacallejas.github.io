@@ -141,20 +141,20 @@ r &lt;- foreach(icount(trials),
 # the object returned is a list
 head(r[[1]])</code></pre>
 <pre><code>##   intercept    slope
-## 1 -10.64086 1.713329
-## 2 -10.65274 1.691824
-## 3 -16.87992 2.715722
-## 4 -19.27061 3.115207
-## 5 -12.36065 1.990063
-## 6 -11.89309 1.892445</code></pre>
+## 1 -18.37112 2.933275
+## 2 -15.46115 2.465251
+## 3 -16.34261 2.619002
+## 4 -12.31040 2.021531
+## 5 -13.75590 2.167016
+## 6 -11.43521 1.794964</code></pre>
 <pre class="r"><code>head(r[[2]])</code></pre>
 <pre><code>##            x         y
-## 1  0.2302629 0.7505377
-## 2 -0.7267472 0.5169147
-## 3 -0.6162932 0.6653278
-## 4  0.5502313 0.3332013
-## 5  0.7697443 0.7239729
-## 6 -2.0312897 0.8796484</code></pre>
+## 1 -0.1228327 0.3354216
+## 2  0.9440102 0.1440420
+## 3  0.6536383 0.9322947
+## 4 -1.1927983 0.9848443
+## 5 -0.5280943 0.4292046
+## 6 -0.1518520 0.8586266</code></pre>
 <p>Note that in output from each iteration is packed in a list, and the combine function binds by rows each element of the list. Lastly, note also that <code>%dopar%</code> is the command that parallelizes the loop. The same loop can be run in a sequential setting, replacing <code>%dopar</code> with <code>%do%</code>.</p>
 </div>
 <div id="functions-with-built-in-parallelization" class="section level2">
