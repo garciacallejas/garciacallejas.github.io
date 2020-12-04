@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David García Callejas</title>
-    <link>/</link>
+    <link>http://example.org/</link>
     <description>Recent content on David García Callejas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Working setup</title>
-      <link>/blog/working_setup/</link>
+      <link>http://example.org/blog/working_setup/</link>
       <pubDate>Thu, 04 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/working_setup/</guid>
+      <guid>http://example.org/blog/working_setup/</guid>
       <description>I often experiment with different workflows and adapt them to my needs and likings. I have written papers in Word, Latex, google docs, and Markdown, while I have produced and tweaked figures with R, Gimp, Inkscape, the yEd diagram editor, etc. I will quickly summarize what, for me, is the best workflow for a complete project.
 1 - Setting up a code/data project
  Set up a github repository for the code and, if it applies, for the raw data.</description>
@@ -24,61 +24,61 @@
     
     <item>
       <title>Parallel R with SLURM</title>
-      <link>/blog/parallelr/</link>
+      <link>http://example.org/blog/parallelr/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/parallelr/</guid>
+      <guid>http://example.org/blog/parallelr/</guid>
       <description>This post is a work in progress! I will incorporate new ideas as I try them
 Types of parallelization SLURM is a workload manager for organizing computing resources in Linux clusters. In order to submit jobs to a cluster managed via SLURM, these have to be submitted via bash scripts that call the actual program to run. Focusing on R, one may think on two general types of parallelizing scripts.</description>
     </item>
     
     <item>
       <title>test1</title>
-      <link>/blog/test1/</link>
+      <link>http://example.org/blog/test1/</link>
       <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/test1/</guid>
+      <guid>http://example.org/blog/test1/</guid>
       <description>hey</description>
     </item>
     
     <item>
       <title></title>
-      <link>/post/</link>
+      <link>http://example.org/post/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/</guid>
+      <guid>http://example.org/post/</guid>
       <description>Research · Publications and CV · Teaching · Blog
 This is my blog page.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/publications/publications/</link>
+      <link>http://example.org/publications/publications/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publications/publications/</guid>
+      <guid>http://example.org/publications/publications/</guid>
       <description>Research · Publications and CV · Teaching · Blog
  Curriculum Vitae  Full cv: PDF  Refereed Journal Publications Please contact me if you want a copy of the publications that are behind paywalls
-  García-Callejas, D., Godoy, O., Bartomeus, I. 2020. cxr: A toolbox for modelling species coexistence in R. Methods in Ecology and Evolution (in press). LINK. Associated R package: cxr
+  García-Callejas, D., Godoy, O., Bartomeus, I. 2020. cxr: A toolbox for modelling species coexistence in R. Methods in Ecology and Evolution, 11:1221-1226 . LINK. Associated R package: cxr
   García-Callejas, D., De la Cruz Rot, M.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/research/research/</link>
+      <link>http://example.org/research/research/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/research/research/</guid>
+      <guid>http://example.org/research/research/</guid>
       <description>Research · Publications and CV · Teaching · Blog
  Structure and dynamics of ecological communities No species exists in isolation, and interactions with other living entities dictate the short and long-term fate of mostly every organism on earth. I study ecological communities because I believe that the self-organization of ecological interactions generates communities that display intrinsic characteristics and emerging properties. It is mindblowing to realize how little we know about how general are the features we observe in some communities, in terms of their topology or their dynamics.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/teaching/teaching/</link>
+      <link>http://example.org/teaching/teaching/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/teaching/</guid>
+      <guid>http://example.org/teaching/teaching/</guid>
       <description>Research · Publications and CV · Teaching · Blog
  Here you can find some teaching materials for different courses and seminars I have taught over the years:
 Conservation Biology (UAB 2017, in spanish)
