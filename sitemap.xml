@@ -3,71 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/blog/</loc>
+    <loc>https://garciacallejas.github.io/blog/</loc>
     <lastmod>2020-06-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/blog/working_setup/</loc>
+    <loc>https://garciacallejas.github.io/blog/working_setup/</loc>
     <lastmod>2020-06-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/blog/parallelr/</loc>
+    <loc>https://garciacallejas.github.io/blog/parallelr/</loc>
     <lastmod>2020-05-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/blog/test1/</loc>
+    <loc>https://garciacallejas.github.io/blog/test1/</loc>
     <lastmod>2020-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://garciacallejas.github.io/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://garciacallejas.github.io/post/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/publications/publications/</loc>
+    <loc>https://garciacallejas.github.io/publications/publications/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/research/research/</loc>
+    <loc>https://garciacallejas.github.io/research/research/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/teaching/teaching/</loc>
+    <loc>https://garciacallejas.github.io/teaching/teaching/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/publications/</loc>
+    <loc>https://garciacallejas.github.io/publications/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/research/</loc>
+    <loc>https://garciacallejas.github.io/research/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/teaching/</loc>
+    <loc>https://garciacallejas.github.io/teaching/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://garciacallejas.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://garciacallejas.github.io/tags/</loc>
   </url>
   
 </urlset>

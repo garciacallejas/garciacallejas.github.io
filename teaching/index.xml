@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teachings on David García Callejas</title>
-    <link>http://example.org/teaching/</link>
+    <link>https://garciacallejas.github.io/teaching/</link>
     <description>Recent content in Teachings on David García Callejas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/teaching/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://garciacallejas.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://example.org/teaching/teaching/</link>
+      <link>https://garciacallejas.github.io/teaching/teaching/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/teaching/teaching/</guid>
+      <guid>https://garciacallejas.github.io/teaching/teaching/</guid>
       <description>Research · Publications and CV · Teaching · Blog
  Here you can find some teaching materials for different courses and seminars I have taught over the years:
 Conservation Biology (UAB 2017, in spanish)
