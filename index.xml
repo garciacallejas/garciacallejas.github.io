@@ -6,11 +6,7 @@
     <description>Recent content on David García Callejas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://garciacallejas.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://garciacallejas.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Working setup</title>
       <link>https://garciacallejas.github.io/blog/working_setup/</link>
@@ -59,8 +55,8 @@ This is my blog page.</description>
       <guid>https://garciacallejas.github.io/publications/publications/</guid>
       <description>Research · Publications and CV · Teaching · Blog
  Curriculum Vitae  Full cv: PDF  Refereed Journal Publications Please contact me if you want a copy of the publications that are behind paywalls.
-  Taheri, S., García-Callejas, D., Araújo, M.B. In press. Discriminating climate, land-cover and random effects on species range dynamics. Global Change Biology. LINK.
-  García-Callejas, D., Godoy, O., Bartomeus, I. 2020. cxr: A toolbox for modelling species coexistence in R.</description>
+  Mestre, F., Gravel, D., García-Callejas, D., Pinto-Cruz, C., Matías, M.G., Araújo, M.B. 2022. Disentangling environment food web relationships: a review with guidelines. Basic and Applied Ecology 61:102-115. LINK.
+  Civantos-Gómez, I., García-Algarra, J.</description>
     </item>
     
     <item>
