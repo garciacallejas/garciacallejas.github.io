@@ -1,0 +1,29 @@
+---
+title: "David García Callejas"
+about:
+  template: trestles
+  image: images/nz_pic_crop.jpg
+  links:
+    - text: "{{< fa brands bluesky >}} Bluesky"
+      href: https://bsky.app/profile/callejas.bsky.social
+    - text: Github
+      icon: github
+      href: https://github.com/garciacallejas
+    - text: "{{< ai orcid >}} ORCiD"
+      href: https://orcid.org/0000-0001-6982-476X
+      rel: me
+    - text: "{{< fa envelope >}} Email"
+      href: mailto:david.garcia.callejas@uab.cat
+email-obfuscation: javascript
+---
+
+I am a community ecologist with a keen interest in understanding how ecological phenomena arise from interactions between entities in space and time. As such, I have so far focused my research on the structure and dynamics of ecological networks: how interactions of different types can be seamlessly incorporated in their representation, how species persist in these networks, and the role of space in shaping their dynamics.
+
+I am a researcher and lecturer at the *Universitat Autònoma de Barcelona*, where my main research line focuses on understanding and quantifying biotic interactions in real ecosystems using easily available data. That is, fully acknowledging different sources of uncertainty, the complexity of the real world, and the limitations that field data impose in our understanding of ecological phenomena.
+
+**Address**
+
+*Unitat d'Ecologia, Departament de Biologia Animal, Biologia Vegetal i Ecologia*  
+*Edifici C, facultat de Biociencies*  
+*Universitat Autònoma de Barcelona*  
+*08193 Cerdanyola del Vallés (Spain)*

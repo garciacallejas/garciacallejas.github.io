@@ -1,0 +1,15 @@
+---
+title: "David García Callejas"
+about:
+  template: trestles
+  image: images/goncharova_three_young_women.jpg
+  links:
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app
+    - icon: github
+      text: Github
+      href: https://github.com/garciacallejas
+---
+
+Some summary
