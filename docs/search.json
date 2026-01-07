@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "about.html",
+    "href": "about.html",
     "title": "David García Callejas",
     "section": "",
-    "text": "I am a community ecologist with a keen interest in understanding how ecological phenomena arise from interactions between entities in space and time. As such, I have so far focused my research on the structure and dynamics of ecological networks: how interactions of different types can be seamlessly incorporated in their representation, how species persist in these networks, and the role of space in shaping their dynamics.\nI am a researcher and lecturer at the Universitat Autònoma de Barcelona, where my main research line focuses on understanding and quantifying biotic interactions in real ecosystems using easily available data. That is, fully acknowledging different sources of uncertainty, the complexity of the real world, and the limitations that field data impose in our understanding of ecological phenomena.\nAddress\nUnitat d’Ecologia, Departament de Biologia Animal, Biologia Vegetal i Ecologia\nEdifici C, facultat de Biociencies\nUniversitat Autònoma de Barcelona\n08193 Cerdanyola del Vallés (Spain)"
-  },
-  {
-    "objectID": "index_old.html",
-    "href": "index_old.html",
-    "title": "David Garcia Callejas",
-    "section": "",
-    "text": "About me\nI am a community ecologist with a keen interest in understanding how ecological phenomena arise from interactions between entities in space and time. As such, I have so far focused my research on the structure and dynamics of ecological networks: how interactions of different types can be seamlessly incorporated in their representation, how species persist in these networks, and the role of space in shaping their dynamics.\nI am a researcher and lecturer at the Universitat Autònoma de Barcelona, where my main research line focuses on understanding and quantifying biotic interactions in real ecosystems using easily available data. That is, fully acknowledging different sources of uncertainty, the complexity of the real world, and the limitations that field data impose in our understanding of ecological phenomena.\n\n\nAbout this website\nIn the sections above you will find a -hopefully- updated list of publications and CV, teaching resources from some classes/workshops I have imparted, and some occasional posts that I will write mostly to remind myself how to solve specific issues I encountered when playing with R, LaTex, or any other fancy tool."
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "David Garcia Callejas",
-    "section": "",
-    "text": "Curriculum Vitae\n\nshort cv: PDF\n\n\n\nRefereed Journal Publications\nSee Google Scholar: LINK\nAND, Please contact me if you want a copy of the publications that are behind paywalls."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "David Garcia Callejas",
-    "section": "",
-    "text": "Teaching resources\nto be updated"
+    "text": "Some summary"
   },
   {
     "objectID": "research.html",
@@ -35,10 +14,24 @@
     "text": "Research\nto be updated"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "David García Callejas",
     "section": "",
-    "text": "Some summary"
+    "text": "I am a community ecologist with a keen interest in understanding how ecological phenomena arise from interactions between entities in space and time. As such, I have so far focused my research on the structure and dynamics of ecological networks: how interactions of different types can be seamlessly incorporated in their representation, how species persist in these networks, and the role of space in shaping their dynamics.\nI am a researcher and lecturer at the Universitat Autònoma de Barcelona, where my main research line focuses on understanding and quantifying biotic interactions in real ecosystems using easily available data. That is, fully acknowledging different sources of uncertainty, the complexity of the real world, and the limitations that field data impose in our understanding of ecological phenomena.\nAddress\nUnitat d’Ecologia, Departament de Biologia Animal, Biologia Vegetal i Ecologia\nEdifici C, facultat de Biociencies\nUniversitat Autònoma de Barcelona\n08193 Cerdanyola del Vallés (Spain)"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "David Garcia Callejas",
+    "section": "",
+    "text": "Teaching resources\nto be updated"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "David Garcia Callejas",
+    "section": "",
+    "text": "Curriculum Vitae\n\nshort cv: PDF\n\n\n\nRefereed Journal Publications\nSee Google Scholar: LINK\nAND, Please contact me if you want a copy of the publications that are behind paywalls."
   }
 ]
