@@ -4,4 +4,10 @@ title: ""
 
 ### Research
 
-to be updated
+I am interested in understanding biotic interactions in Nature: their drivers, effects on populations, and indirect consequences across time and space. The first unescapable challenge in this research is on dealing with the breach between the real world and our simplified representations of it:
+
+**how do we characterise the myriad interactions from Nature and their effects in order to understand and analyse them?**
+
+Interactions and their effects need to be properly defined and their spatiotemporal scale accounted for. I am slowly arriving to the conclusion that without more rigour in our definition and quantification of interactions, community ecology will be little more than a fun entertainment for lovers of Nature and complex systems. So I am resetting my interests towards the fundamentals: how to extract meaningful information from complex, noisy field data? what are the limits on the inference of biotic interactions?
+
+This will challenge me to better understand statistical methods, their uses and limitations; and I am enjoying this challenge immensely. I am currently focusing on time-series methods, to account for the temporal variability of biotic effects between species. Hopefully this will allow me to also advance in the study of non-equilibrium dynamics of ecological communities.
